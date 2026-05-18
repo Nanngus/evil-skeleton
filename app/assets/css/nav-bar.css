@@ -1,0 +1,13 @@
+@import url(colors.css);
+
+.nav-bar {
+    background-color: var(--dark-slate-grey);
+    padding: 2cap 4cap;
+    border-radius: 10px;
+}
+
+.nav-item {
+    font-weight: bold;
+    padding: 4cap;
+    margin: 1rem;
+}
