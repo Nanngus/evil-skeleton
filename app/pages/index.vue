@@ -1,7 +1,7 @@
 <template>
     <Header />
 
-    <p>PENIS</p>
+    <p>WORKY</p>
 
     <Footer />
 </template>
