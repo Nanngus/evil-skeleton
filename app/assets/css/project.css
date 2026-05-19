@@ -1,0 +1,18 @@
+.project {
+    margin: 2rem 1rem;
+    border-radius: 10px;
+
+    background: linear-gradient(180deg, var(--dark-slate-grey) 73%, var(--cerulean) 44%);
+}
+
+.proj-title {
+
+}
+
+.proj-desc {
+
+}
+
+.proj-pic {
+
+}
