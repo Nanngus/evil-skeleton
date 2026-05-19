@@ -1,3 +1,3 @@
 <template>
-    <Nav-Bar />
+    <h1 class="header"><slot /></h1>
 </template>

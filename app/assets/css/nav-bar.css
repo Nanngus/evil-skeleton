@@ -2,12 +2,17 @@
 
 .nav-bar {
     background-color: var(--dark-slate-grey);
-    padding: 2cap 4cap;
     border-radius: 10px;
+    display: grid;
+    width: fit-content;
+    position: relative;
+    flex-shrink: 0;
 }
 
 .nav-item {
     font-weight: bold;
-    padding: 4cap;
-    margin: 1rem;
+    font-size: larger;
+    padding: 3cap 2cap;
+    margin: 1rem 0rem;
+    text-align: center;
 }

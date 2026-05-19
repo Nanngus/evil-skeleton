@@ -1,4 +1,36 @@
 html {
     background-color: var(--jet-black);
+    background: linear-gradient(160deg, 
+        var(--dark-slate-grey) 0%,
+        var(--dark-slate-grey) 10%,
+        var(--jet-black) 20%, 
+        var(--jet-black) 80%, 
+        var(--slate-green));
+    min-height: 100%;
     color: var(--pale-sky);
+    background-attachment: fixed;
+}
+
+main {
+    flex: 1;
+    min-height: 100vh;
+}
+
+a:hover {
+    color: var(--sand);
+}
+
+a {
+    color: var(--amber-sand);
+}
+
+a:visited {
+    color: var(--olive-dust);
+}
+
+.text {
+    border-radius: 10px;
+    background-color: var(--dark-slate-grey);
+    padding: 0.5cap 1cap;
+    margin: 1rem;
 }

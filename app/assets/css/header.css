@@ -1,0 +1,5 @@
+.header {
+    border-radius: 10px;
+    background-color: var(--dark-slate-grey);
+    padding: 2cap;
+}

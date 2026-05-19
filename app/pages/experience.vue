@@ -1,5 +1,5 @@
 <template>
-    <Header>Home</Header>
+    <Header>Experience</Header>
     <div class="layout">
         <NavBar />
         <main>
