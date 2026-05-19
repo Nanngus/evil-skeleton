@@ -1,18 +1,23 @@
 .project {
     margin: 2rem 1rem;
     border-radius: 10px;
+    padding: 2cap;
 
-    background: linear-gradient(180deg, var(--dark-slate-grey) 73%, var(--cerulean) 44%);
+    background: linear-gradient(140deg, var(--dark-slate-grey) 73%, var(--cerulean));
 }
 
 .proj-title {
-
+    font-weight: bold;
 }
 
 .proj-desc {
-
+    font-weight: light;
+    margin: 1cap;
 }
 
 .proj-pic {
-
+    width: 500px;
+    height: auto;
+    resize: both;
+    border-radius: 2cap;
 }

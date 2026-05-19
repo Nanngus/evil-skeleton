@@ -1,11 +1,11 @@
 <template>
-    <Header>About</Header>
-    <NavBar />
+    <Header>About</Header> 
     <div class="layout">
+        <NavBar />
         <main>
-        <article>
-            This page is currently a work in progress.
-        </article>
+            <article class="text">
+                This page is currently a work in progress.
+            </article>
         </main>
     </div>
     <Footer />

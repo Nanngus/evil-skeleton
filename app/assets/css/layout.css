@@ -1,5 +1,5 @@
 .layout {
-    display: flex;
+    display: inline-flex;
     gap: 1cap;
     padding: 1cap;
     align-items: flex-start;
